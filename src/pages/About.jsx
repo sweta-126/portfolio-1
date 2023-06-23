@@ -8,7 +8,7 @@ const About = () => {
 
   const handleDownload = () => {
     
-    const resumeUrl = 'https://drive.google.com/file/d/1MVE6oABFGfTpfYhJrN6ztZe50FqFv9Zw/view?usp=sharing'; 
+    const resumeUrl = 'https://drive.google.com/file/d/1wf2MXQODkah12Dg68JBCmuNXGviqcBuL/view?usp=sharing'; 
 
     const link = document.createElement('a');
     link.href = resumeUrl;
